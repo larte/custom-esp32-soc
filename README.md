@@ -21,8 +21,9 @@ Ordering the minimum 5 pieces from JLCPCB was about $175, the BOM file is attach
 
 The board was doable with the standard [easyEDA](https://easyeda.com/) designer, either online or local version.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](Schematic_esp32_custom.pdf)
 
+[![PCB screenshot][pcb-screenshot]](#readme-top)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Included files
@@ -43,4 +44,5 @@ The board was doable with the standard [easyEDA](https://easyeda.com/) designer,
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax#reference-style-links -->
+[pcb-screenshot]: images/PCB_PCB_esp32-custom.png
 [product-screenshot]: images/Schematic_esp32_custom.png
